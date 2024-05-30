@@ -1,0 +1,4 @@
+[submodule ".config"]
+	path = .config
+	url = https://github.com/Hollow-hub/.config
+	branch = master
